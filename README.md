@@ -11,4 +11,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/harshkaptan/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+## Array
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/harshkaptan/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Two Pointers
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/harshkaptan/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Greedy
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/harshkaptan/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Sorting
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/harshkaptan/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
