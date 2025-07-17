@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/harshkaptan/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/harshkaptan/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/harshkaptan/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/harshkaptan/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/harshkaptan/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/harshkaptan/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Two Pointers
 |  |
 | ------- |
