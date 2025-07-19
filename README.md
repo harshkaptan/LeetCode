@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshkaptan/LeetCode/tree/master/0001-two-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/harshkaptan/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/harshkaptan/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/harshkaptan/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/harshkaptan/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/harshkaptan/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
