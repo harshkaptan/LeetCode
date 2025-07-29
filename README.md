@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/harshkaptan/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/harshkaptan/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/harshkaptan/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/harshkaptan/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/harshkaptan/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/harshkaptan/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Two Pointers
@@ -82,8 +83,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/harshkaptan/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/harshkaptan/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Stack
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/harshkaptan/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Binary Search
+|  |
+| ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/harshkaptan/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/harshkaptan/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 <!---LeetCode Topics End-->
