@@ -104,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0934-bitwise-ors-of-subarrays](https://github.com/harshkaptan/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/harshkaptan/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/harshkaptan/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
